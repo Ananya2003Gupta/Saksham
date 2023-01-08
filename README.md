@@ -6,7 +6,7 @@ With dedicated, quality courses, we wish to improve the represenation of women i
 This website target audiance are women who is deprived from education at a young age, who want to learn a new skill, who want to be  financially independent in thier life and who want to improve thier skills.
 To create this website we have used HTML, CSS, JavaScript and Bootstrap.
 
-This website contains courses to learn and improve English, Communication Skills, Ms Excel, Basic computer skills, knitting skills.
+This website contains courses to learn and improve English, Communication Skills, Ms Excel, Basic computer skills and knitting skills.
 
 This website was designed by a team and the team members are: 
 
