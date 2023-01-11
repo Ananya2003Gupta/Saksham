@@ -1,23 +1,25 @@
 # Saksham
-A Job Portal and Skill learning Website for Women 👩.
+A Job Portal and Skill Learning Website for Women 👩.
 
 This website mainly focuses on empowering women in the field of education.
 
-With dedicated, quality courses, we wish to improve the represenation of women in high impact organisations for a better and more inclusive future.
+With dedicated, quality courses, we wish to improve the representation of women in high-impact organisations for a better and more inclusive future.
 
-This website target audiance are women who is deprived from education at a young age, who want to learn a new skill, who want to be  financially independent in thier life and who want to improve thier skills.
+This website's target audience is women who are deprived of education at a young age, who want to learn a new skill, who want to be financially independent in their lives, and who want to improve their skills.
 
-This website contains courses to learn and improve English, Communication Skills, Ms Excel, Basic computer skills and knitting skills.
+This website contains courses to learn and improve English, communication skills, MS Excel, basic computer skills, and knitting skills.
 
 
 ### Tech Stack
-To create this website we have used HTML, CSS, JavaScript and Bootstrap.
+To create this website, we have used HTML, CSS, JavaScript, and Bootstrap.
+
 
 ### Live Website
 Live Website Link: https://saksham-9b097c.spheron.app/
 
+
 ### Team Members
-This website was designed by a team and the team members are: 
+This website was designed by: 
 
 Ananya Gupta-https://github.com/Ananya2003Gupta
 
