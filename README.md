@@ -25,7 +25,7 @@ Ananya Gupta-https://github.com/Ananya2003Gupta
 
 Himanshu Balani-https://github.com/himanshubalani/himanshubalani
 
-krishna-https://github.com/krishna062
+Krishna-https://github.com/krishna062
 
 Madhoolika Nagesh-https://github.com/MadhoolikaNagesh
 
